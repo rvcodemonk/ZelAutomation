@@ -260,5 +260,8 @@ public class InterviewPortal {
         }
         chatElement2.click();
         
+        System.out.println("interview portal1");
+        System.out.println("interview portal2");
+        System.out.println("interview portal3");
 	}
 }
