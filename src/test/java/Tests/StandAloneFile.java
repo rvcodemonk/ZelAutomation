@@ -240,5 +240,6 @@ public class StandAloneFile {
         driver.findElement(By.xpath("//div[text()='1-10']")).click();
         driver.findElement(By.xpath("//div[text()='Seed Stage']")).click();
         driver.findElement(By.xpath("(//button[text()='Create'])[1]")).click();   
+        System.out.println("Hello made changes in this code");
 		}
 }
