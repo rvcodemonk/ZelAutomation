@@ -92,6 +92,7 @@ public class LoginPageCopy {
 		
 		//wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//div[text()='Sign out']")));
 		//driver.findElement(By.xpath("//div[text()='Sign out']")).click();
+		System.out.println("Changes on dev branch");
 	}
 
 }
